@@ -1,6 +1,6 @@
-# Python
+# WebTec
 
-Välkommen till kursen Python. Här ska vi lära oss programmera.
+Välkommen till kursen WebTec. Här ska vi lära oss att skapa webbplatser.
 
 
 ## Kursmoment
